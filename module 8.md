@@ -58,6 +58,7 @@ Program:
               }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/025d6c05-ee1f-4db0-8510-250ba1b35e9a)
 
 
@@ -100,7 +101,9 @@ int main() {
 ```
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/2588dcd1-4363-4aac-a424-772cc19b1c45)
+
 Result:
 Thus, the program is verified successfully
 
@@ -178,6 +181,7 @@ int main() {
 }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/094cdee0-bf2e-4177-87d4-fce42df946dc)
 
 Result:
@@ -231,6 +235,7 @@ int main() {
 }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/e59e9df0-617a-4b64-9dba-ac6f6767946e)
 
 Result:
@@ -272,6 +277,7 @@ void square(){
 }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/ed5fe4e2-ce15-41a7-882b-ca8eceb1f294)
 
 Result:
