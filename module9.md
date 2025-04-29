@@ -22,6 +22,7 @@ void display()
 }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/3a7797c8-93da-42ae-9576-345621f4be6f)
 
 Result:
@@ -51,6 +52,7 @@ void push (int data)
 }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/62ce0a78-26c4-4f80-a167-a2497e50ad29)
 
 Result:
@@ -82,6 +84,7 @@ void display()
 }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/907439c5-4127-4948-b126-79b1ebe686c3)
 
 Result:
@@ -113,6 +116,7 @@ void enqueue(int data)
 }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/a6f67ae0-f7e9-43a1-86b3-09bb1ce4c8b6)
 
 Result:
@@ -153,6 +157,7 @@ else
 }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/8ca12b2d-c738-4ae1-b5e6-07253837c4c5)
 
 Result:
