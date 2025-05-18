@@ -190,7 +190,7 @@ void insert(float data)
        temp->next=n;
      }
 }
-
+```
 Output:
 
 ![image](https://github.com/user-attachments/assets/5de60551-7c9c-4178-ab25-f88f9d9fd5bc)
