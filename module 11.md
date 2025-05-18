@@ -43,6 +43,7 @@ Program:
 ```
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/2d2ee81e-20d5-4c01-a7a4-2ba3f6d2a5d2)
 
 
@@ -248,6 +249,7 @@ Program:
 
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/d256fc10-882b-45ff-9d9d-f7e20af84cbd)
 
 Result:
